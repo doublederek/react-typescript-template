@@ -8,11 +8,11 @@ A simple React & TypeScript template to use as a starting point for web apps
 
 ## Entry Point
 - Use `index.tsx` as main entry point
-- Dust off you hands because it's that simple
+- Dust off your hands because it's that simple
 - Enjoy!
 
 ## Building
-- Build you production app with `yarn build` or `npm build`
+- Build your production app with `yarn build` or `npm build`
 
 ## Custom Webpack Archetecture
 This template is set up with 3 webpack structures, already implemented. If you don't need to go this deep then you can simply ignore the `.dev` and `.prod` files. No worries!
